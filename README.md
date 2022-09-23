@@ -1,5 +1,5 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
+by Ashley Ufret and Théa Williams
 
 -----
 
