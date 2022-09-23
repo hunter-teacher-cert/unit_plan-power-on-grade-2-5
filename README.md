@@ -46,6 +46,7 @@ The Power On! Facilitator Guide [https://www.poweronbook.com/]
 Total lenght: X Weeks
 
 (list each lesson with main topic(s))
+
 Include input and output (this can be buttons, clickable objects, score, text, images, etc)
 Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
 Includes at least one variable, function, list, and conditional
