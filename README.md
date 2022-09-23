@@ -5,9 +5,9 @@ by Ashley Ufret and Théa Williams
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
-- #### Description: The Power On book will be read aloud to students in chunks of one chapter at a time. Teachers will revisit the lessons to teach reading strategies and have students discuss the text. Topics discussed will be connected and weaved into writing unit prompts that have cross-over connections. Students will create computer science projects in Scratch 
-- #### When: Will be taught during SEL period (periods of time dedicated to social-emotional learning), Science/Computer Science period and ELA(reading/writing) periods. 
-- #### Grades: 2-5
+- Description: The Power On book will be read aloud to students in chunks of one chapter at a time. Teachers will revisit the lessons to teach reading strategies and have students discuss the text. Topics discussed will be connected and weaved into writing unit prompts that have cross-over connections. Students will create computer science PSA projects in Scratch or Code.org to spread awareness about CS representation, using an equity theme, from the text they connect with, as guideline for their project. 
+- When: Will be taught during SEL period (periods of time dedicated to social-emotional learning), Science/Computer Science period and ELA(reading/writing) periods. 
+- Grades: 2-5
 
 ---
 
@@ -25,7 +25,7 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 Programming
-Use either code.org OR scratch to create your app/game/story
+- Use either code.org OR scratch to create your app/game/story
 Include input and output (this can be buttons, clickable objects, score, text, images, etc)
 Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
 Includes at least one variable, function, list, and conditional
