@@ -54,7 +54,8 @@ Plan out when you will use each of the following:
 Variable
 Function
 Conditional 
-Loop 
+Loop
+ 
 ---
 
 ### Assesments
