@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# LET'S POWER ON EQUITY FOR CS
 by Ashley Ufret and Théa Williams
 
 -----
@@ -26,6 +26,14 @@ List The NY State Computer Science standards you will be covering in this unit. 
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 Programming
 - Use either code.org OR scratch to create your app/game/story
+Include input and output (this can be buttons, clickable objects, score, text, images, etc)
+Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
+Includes at least one variable, function, list, and conditional
+Plan out when you will use each of the following:
+Variable
+Function
+Conditional 
+Loop 
 ---
 
 ### Resources
@@ -37,14 +45,6 @@ Programming
 Total lenght: X Weeks
 
 (list each lesson with main topic(s))
-- Include input and output (this can be buttons, clickable objects, score, text, images, etc)
-- Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
-- Includes at least one variable, function, list, and conditional
-Plan out when you will use each of the following:
-Variable
-Function
-Conditional 
-Loop 
 
 ---
 
