@@ -26,6 +26,20 @@ List The NY State Computer Science standards you will be covering in this unit. 
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 Programming
 - Use either code.org OR scratch to create your app/game/story
+
+---
+
+### Resources
+(include any links/books/readings to be used during this unit)
+Power On! book [https://www.poweronbook.com/]
+The Power On! Facilitator Guide [https://www.poweronbook.com/]
+
+---
+
+### Lessons
+Total lenght: X Weeks
+
+(list each lesson with main topic(s))
 Include input and output (this can be buttons, clickable objects, score, text, images, etc)
 Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
 Includes at least one variable, function, list, and conditional
@@ -34,18 +48,6 @@ Variable
 Function
 Conditional 
 Loop 
----
-
-### Resources
-(include any links/books/readings to be used during this unit)
-
----
-
-### Lessons
-Total lenght: X Weeks
-
-(list each lesson with main topic(s))
-
 ---
 
 ### Assesments
