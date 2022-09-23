@@ -6,6 +6,12 @@ by Ashley Ufret and Théa Williams
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
 - Description: The Power On book will be read aloud to students in chunks of one chapter at a time. Teachers will revisit the lessons to teach reading strategies and have students discuss the text. Topics discussed will be connected and weaved into writing unit prompts that have cross-over connections. Students will create computer science PSA projects in Scratch or Code.org to spread awareness about CS representation, using an equity theme, from the text they connect with, as guideline for their project. 
+  - Power On! themes:
+    --Identity and intersectionality
+    --CS Pioneers and representation
+    --Racial bias in tech
+    --Inequities in CS education
+    --Student advocacy and social justice work
 - When: Will be taught during SEL period (periods of time dedicated to social-emotional learning), Science/Computer Science period and ELA(reading/writing) periods. 
 - Grades: 2-5
 
