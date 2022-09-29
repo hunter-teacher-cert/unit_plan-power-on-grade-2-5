@@ -26,6 +26,29 @@ This unit will offer students explicit access to the social justice issue of ine
 ### Standards Referenced
 List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
 
+2-3.IC.1    Identify and analyze how computing technology has changed the way people live and work.
+4-6.IC.1    Describe computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.
+
+
+2-3.IC.3    Discuss and explain how computing technology can be used in society and the world.
+4-6.IC.3    Explain current events that involve computing technologies. 
+
+
+2-3.IC.6    Identify and discuss factors that make a computing device or software application easier or more difficult to use.
+4-6.IC.6    Identify and explain ways to improve the accessibility and usability of a computing device or software application for the diverse needs and wants of users.
+
+2-3.IC.7    Identify a diverse range of roles and skills in computer science.
+4-6.IC.7    Identify a diverse range of role models in computer science.
+
+2-3.CT.10    Develop and document a plan that outlines specific steps taken to complete a project.
+4-6.CT.10    Describe the steps taken and choices made to design and develop a solution using an iterative design process.
+
+2-3.DL.2    Communicate and work with others using digital tools to share knowledge and convey ideas.
+4-6.DL.2    Select appropriate digital tools to communicate and collaborate while learning with others. 
+
+2-3.DL.4    Use a variety of digital tools and resources to create digital artifacts.
+4-6.DL.4    Use a variety of digital tools and resources to create and revise digital artifacts.
+
 ---
 
 ### Tools Used
