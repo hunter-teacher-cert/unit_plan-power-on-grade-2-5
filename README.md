@@ -50,12 +50,13 @@ List The NY State Computer Science standards you will be covering in this unit. 
 4-6.DL.4    Use a variety of digital tools and resources to create and revise digital artifacts.
 
 ---
-
 ### Tools Used
 (include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
 Programming
-- Use either code.org OR scratch to create your app/game/story
-
+- Google CS First - will be used to build up CS skillset for students to apply to their final project 
+- Use either Google CS First OR Scratch to create final project CS & Social Justice (app, game, story, or animated poster to raise awareness)
+- Plickers will be used to capture data check for understanding and identify the need for small group support/conference (depending on misconception/misunderstanding and # of students with the same need)
+(note: the educator can choose to substitute CS First with Code.org for CS building blocks)
 ---
 
 ### Resources (External)
@@ -80,10 +81,8 @@ Total lenght: X Weeks
     - Loop
  
 ---
-
-
-
 ### Assesments
 (list summative and/or formative assessments used)
-- rubric
+- rubric for final project
+- observation unit for teacher to record check for understanding for ELA and CS standards during lessons throughout the unit (from tiered questioning, group/partner discussions, participation etc.)
 ---
