@@ -56,7 +56,7 @@ https://www.flippity.net/vb.php?k=1oDWXJjfdsYsvaFFPjZECnXwkRwPRXZYRNfD6IuB_c9c
 ![Image of CS Scavenger Hunt](https://github.com/hunter-teacher-cert/currdev-work-theawilliams19/blob/main/cs%20scavenger%20hunt.jpg)
 
 ---
-# Lesson 1 of Unit LET'S POWER ON EQUITY FOR CS
+# Lesson 3 of Unit LET'S POWER ON EQUITY FOR CS
 
 **Mini-Lesson:**
 
@@ -135,7 +135,7 @@ elevate some and oppress all others.
 
 ----
 
-# Lesson 2 of Unit LET'S POWER ON EQUITY FOR CS
+# Lesson 4 of Unit LET'S POWER ON EQUITY FOR CS
 
 **Mini-Lesson**
 Character Analysis
