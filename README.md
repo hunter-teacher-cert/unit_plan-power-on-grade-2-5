@@ -58,7 +58,7 @@ Programming
 
 ---
 
-### Resources
+### Resources (External)
 (include any links/books/readings to be used during this unit)
 Power On! book [https://www.poweronbook.com/]
 The Power On! Facilitator Guide [https://www.poweronbook.com/]
@@ -80,6 +80,8 @@ Total lenght: X Weeks
     - Loop
  
 ---
+
+
 
 ### Assesments
 (list summative and/or formative assessments used)
