@@ -84,5 +84,6 @@ Total lenght: X Weeks
 ### Assesments
 (list summative and/or formative assessments used)
 - rubric for final project
-- observation unit for teacher to record check for understanding for ELA and CS standards during lessons throughout the unit (from tiered questioning, group/partner discussions, participation etc.)
+- observation rubric for teacher to record check for understanding for ELA and CS standards during lessons throughout the unit (from tiered questioning, group/partner discussions, participation etc.)
+- CS projects completed on CS first will be assessments for mastery of ELA standards but evaluated as progress monitoring for CS standards with mastery of CS standards determined based on their performance by the end of the unit with the final project.
 ---
