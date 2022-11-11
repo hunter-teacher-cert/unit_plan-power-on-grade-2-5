@@ -74,7 +74,7 @@ Total length: 10 lessons appx 10 Weeks (depending on the number of days integrat
 Lessons with main topic(s)
 
 1: The lingo in Equity & Computer Science
-![Image of Google CS First Animate a Name(Vocabulary) lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Animate%20a%20Name(Vocabulary).jpg =250x250)
+![Image of Google CS First Animate a Name(Vocabulary) lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Animate%20a%20Name(Vocabulary).jpg |width=100)
 
 2: Identity, Culture & Character Analysis
 
