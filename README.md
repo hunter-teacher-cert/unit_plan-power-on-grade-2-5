@@ -102,7 +102,7 @@ Lessons with main topic(s)
 
 10: From Allies to Activists! (students share their project with the class and share how they have shared their project) - this can be done on flipgrid with students presentation video and screen recording of project.
 
-final project info: 
+Final project info: 
 
 - Include input and output (this can be buttons, clickable objects, score, text, images, etc)
 - Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
