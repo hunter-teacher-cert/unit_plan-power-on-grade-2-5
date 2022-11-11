@@ -69,7 +69,7 @@ The Power On! Facilitator Guide [https://www.poweronbook.com/]
 ---
 
 ### Lessons
-Total lenght: 10 lessons appx 10 Weeks (depending on the number of days integrated)
+Total length: 10 lessons appx 10 Weeks (depending on the number of days integrated)
 
 Lessons with main topic(s)
 
