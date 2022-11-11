@@ -74,7 +74,7 @@ Total length: 10 lessons appx 10 Weeks (depending on the number of days integrat
 Lessons with main topic(s)
 
 1: The lingo in Equity & Computer Science
-![Image of Google CS First Animate a Name(Vocabulary) lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Animate%20a%20Name(Vocabulary).jpg = 250x250)
+![Image of Google CS First Animate a Name(Vocabulary) lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Animate%20a%20Name(Vocabulary).jpg =250x250)
 
 2: Identity, Culture & Character Analysis
 
@@ -86,10 +86,9 @@ Lessons with main topic(s)
 4: Why do we need Computer science?
 
 5: CS Pioneers
-![Image of Google CS First Code Your Hero lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Hero.jpg)
 
 6: This CS Hero Looks Like Me (Rolemodes/Representation in CS)
-
+![Image of Google CS First Code Your Hero lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Hero.jpg)
 
 7: I Am an Ally! 
 ![Image of Google CS First Pitch Your Passion lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Advocacy.jpg)
@@ -107,8 +106,14 @@ Lessons with main topic(s)
 
 10: From Allies to Activists! (students share their project with the class and share how they have shared their project) - this can be done on flipgrid with students presentation video and screen recording of project.
 
-Final project info: 
+Final Project Description: 
 
+Students will create computer science PSA projects in Scratch or CS First to spread awareness about CS representation, using an equity theme, from the text they connect with, as guideline for their project. They will choose  platform (CS First or Scratch) and delivery system (poster(art), game, app, animated story).  
+Students should include CS Concepts that we have learned throughout the unit such as: Input and Output, Variable, Function, Conditional, Loops
+Note: Time for the final project to be completed will vary by student and project, you may consider having students work with a partner or small group for this section.
+Class showcase: students share their project with the class and get feedback - this can be done on flipgrid with students presentation video and screen recording of project.
+
+Instructions for Student Planning
 - Include input and output (this can be buttons, clickable objects, score, text, images, etc)
 - Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
 - Includes at least one variable, function, list, and conditional
