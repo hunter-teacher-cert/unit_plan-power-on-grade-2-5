@@ -92,7 +92,7 @@ Lessons with main topic(s)
 
 
 7: I Am an Ally! 
-![Image of Google CS First Pitch Your Passion lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Animate%20a%20Name(Vocabulary).jpg)
+![Image of Google CS First Pitch Your Passion lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Advocacy.jpg)
 
 8: How Can I Be A Change Maker? (Brainstorming final project - choosing platform (CS First or Scratch) and delivery system (poster(art), game, app, animated story)
 ![Image of Google CS First Storytelling lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Final%20animated%20story.jpg)
