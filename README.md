@@ -67,9 +67,12 @@ The Power On! Facilitator Guide [https://www.poweronbook.com/]
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 8 lessons appx 10 Weeks (depending on the number of days integrated)
 
-(list each lesson with main topic(s))
+Lessons with main topic(s)
+
+
+final project info: 
 
 - Include input and output (this can be buttons, clickable objects, score, text, images, etc)
 - Remember to use descriptive IDs (names) for each button, backdrop, screen, image, etc
