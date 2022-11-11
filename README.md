@@ -70,16 +70,28 @@ The Power On! Facilitator Guide [https://www.poweronbook.com/]
 Total lenght: 10 lessons appx 10 Weeks (depending on the number of days integrated)
 
 Lessons with main topic(s)
+
 1: The lingo in Equity & Computer Science
-2: Identity, Culture & Character Analysis 
+
+2: Identity, Culture & Character Analysis
+
 3: Underrepresentation and Discrimination in CS (Dialogue)
 ![Image of Google CS First Dialogue lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Dialogue.jpg)
+
 4: Why do we need Computer science?
+
 5: CS Pioneers
+![Image of Google CS First Code Your Hero lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Hero.jpg)
+
 6: This CS Hero Looks Like Me (Rolemodes/Representation in CS)
+
+
 7: I Am an Ally! 
+
 8: How Can I Be A Change Maker? (Brainstorming final project - choosing platform (CS First or Scratch) and delivery system (poster(art), game, app, animated story)
+
 9: My Impact to CS (students work on project - duration varies for students)
+
 10: From Allies to Activists! (students share their project with the class and share how they have shared their project) - this can be done on flipgrid with students presentation video and screen recording of project.
 
 final project info: 
