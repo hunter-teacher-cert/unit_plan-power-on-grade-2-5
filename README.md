@@ -73,6 +73,7 @@ Lessons with main topic(s)
 1: The lingo in Equity & Computer Science
 2: Identity, Culture & Character Analysis 
 3: Underrepresentation and Discrimination in CS (Dialogue)
+![Image of Google CS First Dialogue lesson](https://github.com/hunter-teacher-cert/unit_plan-power-on-grade-2-5/blob/main/Dialogue.jpg)
 4: Why do we need Computer science?
 5: CS Pioneers
 6: This CS Hero Looks Like Me (Rolemodes/Representation in CS)
