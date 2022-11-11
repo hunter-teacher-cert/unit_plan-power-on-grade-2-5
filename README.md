@@ -70,6 +70,13 @@ The Power On! Facilitator Guide [https://www.poweronbook.com/]
 Total lenght: 8 lessons appx 10 Weeks (depending on the number of days integrated)
 
 Lessons with main topic(s)
+1: The lingo in Equity & Computer Science
+2: Identity, Culture & Character Analysis 
+3: Underrepresentation and Discrimination in CS
+4: Why do we need Computer science?
+5: CS Pioneers
+6: This CS Hero Looks Like Me (Rolemodes in CS)
+7: I Am an Advocate!
 
 
 final project info: 
