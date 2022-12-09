@@ -61,17 +61,20 @@ https://www.flippity.net/vb.php?k=1oDWXJjfdsYsvaFFPjZECnXwkRwPRXZYRNfD6IuB_c9c
 **Mini-Lesson:**
 
 Frontload a review of the vocabulary with definitions
+
 Read Chapter 1 of “Power On” book by: Jean J. Ryoo and Jane Margolis
 
 
 **Partner Work:**
 
 Have vocabulary words in a bowl and each partnership picks 1 term.
+
 Students work in partnerships (driver/navigator) to complete the Animate a Name activity on Scratch for one of the terms and include the definition for the word in their own words.
 
 **Share:**
 
-Students jigsaw share out their definition
+Students jigsaw share out their definition.
+
 Vocabulary words will be combined into a Scratch Studio for future student reference.
 
 
@@ -148,7 +151,7 @@ During 2nd reading of Chapter 2: Stop and Discuss
 6. What is an algorithm?
 
 
-Turn and Talk: Joy Buolamwini what was the issue that this person discovered in her research? What did she have to do in order for her computer to recognize her?
+Turn and Talk: What was the issue that Joy Buolamwini discovered in her research? What did she have to do in order for her computer to recognize her?
 Highlight the stats in the text Discussion: Impressions Thoughts and Questions
 The percentage of the Black and Latinx workforce in comparison to the Black and Latinx population in California:
  7% workforce vs 39% (Latinx) + 6% (Black) population 
